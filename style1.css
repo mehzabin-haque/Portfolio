@@ -698,11 +698,32 @@ h3.my-profession {
     .about .about-content .skills,
     .portfolio .portfolio-item,
     .contact .contact-info-item,
-    .contact .contact-form .col-6 {
+    .contact .contact-form .col-6,
+    #award {
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .about .about-content .experience {
-        display: none;
-    }
+}
+
+.portfolio-item a {
+    color: var(--text-black-900);
+    font-style: bold;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.portfolio-item a:hover {
+    color: var(--skin-color);
+}
+
+#g,
+#l,
+#i {
+    color: var(--text-black-700);
+}
+
+#g:hover,
+#l:hover,
+#i:hover {
+    color: var(--skin-color);
 }
