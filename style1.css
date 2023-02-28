@@ -694,7 +694,8 @@ h3.my-profession {
 
 @media (max-width:767px) {
     .about .about-content .education,
-    .about .about-content .experience .about .about-content .personal-info,
+    .about .about-content .experience,
+    .about .about-content .personal-info,
     .about .about-content .skills,
     .portfolio .portfolio-item,
     .contact .contact-info-item,
