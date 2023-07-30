@@ -13,7 +13,7 @@ This GitHub repository contains the code for my personal portfolio website. It s
 ## Technologies Used
 - HTML5, CSS3, and JavaScript for the frontend
 - Bootstrap or Tailwind CSS for responsive design
-- GitHub Pages for hosting the website
+- Netlify Pages for hosting the website
 
 ## View My Portfolio
 Visit my portfolio website at [Mehzabin Haque](https://mehzabin-haque.netlify.app/) to explore my work and get in touch with me.
