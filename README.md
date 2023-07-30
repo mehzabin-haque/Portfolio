@@ -1,4 +1,4 @@
-# # Portfolio Website
+# Portfolio Website
 
 ## Introduction
 This GitHub repository contains the code for my personal portfolio website. It showcases my skills, projects, and experiences, providing visitors with an overview of my work in the field of software development and design.
